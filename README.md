@@ -1,7 +1,7 @@
 # testing-branch-rules
 
 1 1
-2
+2 2
 3
 4
 6
